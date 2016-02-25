@@ -1,0 +1,7 @@
+D:\Workspace\Dijkstra>javac -cp D:\Workspace\Libs\xstream-1.4.8.jar;D:\Workspace
+\Libs\xstream-1.4.8\lib\xstream\kxml2-2.3.0.jar;D:\Workspace\Libs\xstream-1.4.8\
+lib\xstream\xmlpull-1.1.3.1.jar; com\dijkstra\server2.java
+
+D:\Workspace\Dijkstra>java -cp .;D:\Workspace\Libs\xstream-1.4.8.jar;D:\Workspac
+e\Libs\xstream-1.4.8\lib\xstream\kxml2-2.3.0.jar;D:\Workspace\Libs\xstream-1.4.8
+\lib\xstream\xmlpull-1.1.3.1.jar; com.dijkstra.server2
